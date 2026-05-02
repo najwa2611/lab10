@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavigationDrawerDemo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_header_title">Navigation Drawer Demo</string>
+    <string name="nav_header_email">contact@demo.com</string>
+    <string name="content_desc_profile_image">Profile Image</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.NavigationDrawerDemo" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/chocolatNoir</item>
+        <item name="colorPrimaryVariant">@color/chocolatNoir</item>
+        <item name="colorOnPrimary">@color/chocolatBlanc</item>
+        <item name="colorSecondary">@color/chocolatLait</item>
+        <item name="colorSecondaryVariant">@color/chocolatLait</item>
+        <item name="colorOnSecondary">@color/chocolatNoir</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
